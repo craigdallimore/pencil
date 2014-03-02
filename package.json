@@ -1,0 +1,30 @@
+{
+
+  "name":        "LeapThing",
+  "description": "More playing with Leap Motion Controller",
+  "version":     "0.0.1",
+  "private":     true,
+
+  "devDependencies": {
+
+    "grunt":               "0.4.x",
+    "grunt-contrib-watch": "0.2.x",
+    "grunt-contrib-sass":  "0.6.x"
+
+  },
+
+  "dependencies": {
+
+    "jade":    "1.2.x",
+    "express": "3.x",
+    "lodash":  "2.2.x"
+
+  },
+
+  "scripts": {
+
+    "test": "grunt mocha"
+
+  }
+
+}
