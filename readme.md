@@ -1,24 +1,4 @@
-Project Scaffold
-================
+Pencil
+======
 
-
-[![Build Status](https://travis-ci.org/craigdallimore/project-template.png?branch=master)](https://travis-ci.org/craigdallimore/project-template)
-
-
-Comes with
-----------
-- jQuery
-- RequireJS
-- Underscore
-- Backbone
-- Marionette
-- Grunt
-- Mocha + Chai + Sinon in browser and CLI
-- Jade
-- Super basic node server
-
-TODO:
------
-
-- [ ] Code coverage
-- [ ] CasperJS tests
+[explanation](http://fringe.davesource.com/Fringe/Entertainment/Books/HitchHikers_Guide_To_The_Galaxy/1.Chapters/Chapter_12)
